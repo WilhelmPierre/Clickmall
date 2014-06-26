@@ -1,4 +1,6 @@
-# Welcome to **Clickmall** where your online shopping experience is a breeze. Here we focus one three things:
+# Welcome to **Clickmall** where your online shopping experience is a breeze. 
+
+Here we focus on three things:
 
 1. Effeciency
 2. Respect
