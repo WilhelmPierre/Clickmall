@@ -3,7 +3,8 @@
 1. Effeciency
 2. Respect
 3. Quality
- For more information, feel free to visit the following links:
+
+### For more information, feel free to visit the following links:
 
   http://www.wilhelmpierre.com or 
  [GitHub](http://github.com/WilhelmPierre)
