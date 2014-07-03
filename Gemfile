@@ -1,3 +1,4 @@
+source 'https://code.stripe.com'
 source 'https://rubygems.org'
 ruby "2.0.0"
 
@@ -21,6 +22,7 @@ gem 'paperclip', github: 'thoughtbot/paperclip'
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
 gem 'devise'
+gem 'stripe'
 
 group :production do
   gem 'pg'
@@ -29,6 +31,8 @@ end
 
 group :development, :test do
   gem 'sqlite3'
+  gem 'better_errors'	
+  gem 'binding_of_caller'
 end
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
